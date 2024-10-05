@@ -1,0 +1,6 @@
+protobuf
+transformers
+torch
+fugashi
+ipadic
+unidic-lite
